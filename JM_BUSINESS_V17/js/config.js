@@ -1,1 +1,0 @@
-window.JM_CONFIG={businessName:"JM BUSINESS",whatsappNumber:"242065975165",email:"jmbusinesscg@gmail.com",phoneDisplay:"+242 05 314 67 14",phoneLink:"+242053146714",whatsappDisplay:"+242 06 597 51 65",address:"Congo",currency:"FCFA"};
